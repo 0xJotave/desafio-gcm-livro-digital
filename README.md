@@ -7,3 +7,5 @@
 
 Autor: João Victor Moura Barbosa
 Disciplina: Gestão de Configuração e Mudanças — IFPB
+Professor: Alvaro
+PERIODO: 2023.2
